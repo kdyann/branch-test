@@ -38,3 +38,6 @@ drwxr-xr-x 1 dayoung 197121    0 Mar  8  2023 anaconda3/
 drwxr-xr-x 1 dayoung 197121    0 Jul 26 21:37 source/
 -rw-r--r-- 1 dayoung 197121 2.9K Oct 14 21:25 words.txt
 lrwxrwxrwx 1 dayoung 197121   61 Apr 21 21:38 시작 메뉴 -> /c/Users/dayoung/AppData/Roaming/Microsoft/Windows/Start Menu/
+# practicing git branching and merging
+# practicing git branching and merging
+# practicing git branching and merging
